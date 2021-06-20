@@ -5,3 +5,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rivalabdrakhamnov)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelldi&show_icons=true&theme=nord)](https://github.com/rafaelldi/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelldi&layout=compact&theme=nord)](https://github.com/rafaelldi/)
+

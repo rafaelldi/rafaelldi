@@ -9,16 +9,16 @@
 ### 📓 Recent blog posts:
 
 <!--START_SECTION:feed-->
-#### [Async request processing](https:&#x2F;&#x2F;rafaelldi.github.io&#x2F;&#x2F;posts&#x2F;async-request-processing&#x2F;) 
-**
-#### [Making a plugin isn’t so hard…](https:&#x2F;&#x2F;rafaelldi.github.io&#x2F;&#x2F;posts&#x2F;plugin-for-rider&#x2F;) 
-**
-#### [Choreography](https:&#x2F;&#x2F;rafaelldi.github.io&#x2F;&#x2F;posts&#x2F;choreography&#x2F;) 
-**
-#### [Orchestration](https:&#x2F;&#x2F;rafaelldi.github.io&#x2F;&#x2F;posts&#x2F;orchestration&#x2F;) 
-**
-#### [Coordination in the distributed systems](https:&#x2F;&#x2F;rafaelldi.github.io&#x2F;&#x2F;posts&#x2F;coordination-in-the-distributed-systems&#x2F;) 
-**
+* [Async request processing](https:&#x2F;&#x2F;rafaelldi.github.io&#x2F;&#x2F;posts&#x2F;async-request-processing&#x2F;)
+* [Making a plugin isn’t so hard…](https:&#x2F;&#x2F;rafaelldi.github.io&#x2F;&#x2F;posts&#x2F;plugin-for-rider&#x2F;)
+* [Choreography](https:&#x2F;&#x2F;rafaelldi.github.io&#x2F;&#x2F;posts&#x2F;choreography&#x2F;)
+* [Orchestration](https:&#x2F;&#x2F;rafaelldi.github.io&#x2F;&#x2F;posts&#x2F;orchestration&#x2F;)
+* [Coordination in the distributed systems](https:&#x2F;&#x2F;rafaelldi.github.io&#x2F;&#x2F;posts&#x2F;coordination-in-the-distributed-systems&#x2F;)
+* [Distributed application with Project Tye](https:&#x2F;&#x2F;rafaelldi.github.io&#x2F;&#x2F;posts&#x2F;distributed-application-with-project-tye&#x2F;)
+* [WebSockets in .NET](https:&#x2F;&#x2F;rafaelldi.github.io&#x2F;&#x2F;posts&#x2F;web-sockets-in-dot-net&#x2F;)
+* [Simple Giraffe Application](https:&#x2F;&#x2F;rafaelldi.github.io&#x2F;&#x2F;posts&#x2F;simple-giraffe-application&#x2F;)
+* [Simple ASP.NET Core Application](https:&#x2F;&#x2F;rafaelldi.github.io&#x2F;&#x2F;posts&#x2F;simple-asp-net-core-application&#x2F;)
+* [GraphQL with ASP.NET Core](https:&#x2F;&#x2F;rafaelldi.github.io&#x2F;&#x2F;posts&#x2F;graphql-with-asp-net-core&#x2F;)
 <!--END_SECTION:feed-->
 
 ---

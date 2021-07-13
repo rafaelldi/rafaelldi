@@ -14,3 +14,4 @@ jobs:
         with:
           feed-url: https://northern-dev.net/feed.xml
           readme-section: feed
+          template: "#### [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"

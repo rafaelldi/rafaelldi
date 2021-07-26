@@ -9,6 +9,7 @@
 ### 📓 Recent blog posts:
 
 <!--START_SECTION:feed-->
+* [Monitoring background task](https:&#x2F;&#x2F;rafaelldi.github.io&#x2F;&#x2F;posts&#x2F;monitoring-background-task&#x2F;)
 * [Async request processing](https:&#x2F;&#x2F;rafaelldi.github.io&#x2F;&#x2F;posts&#x2F;async-request-processing&#x2F;)
 * [Making a plugin isn’t so hard…](https:&#x2F;&#x2F;rafaelldi.github.io&#x2F;&#x2F;posts&#x2F;plugin-for-rider&#x2F;)
 * [Choreography](https:&#x2F;&#x2F;rafaelldi.github.io&#x2F;&#x2F;posts&#x2F;choreography&#x2F;)
@@ -18,7 +19,6 @@
 * [WebSockets in .NET](https:&#x2F;&#x2F;rafaelldi.github.io&#x2F;&#x2F;posts&#x2F;web-sockets-in-dot-net&#x2F;)
 * [Simple Giraffe Application](https:&#x2F;&#x2F;rafaelldi.github.io&#x2F;&#x2F;posts&#x2F;simple-giraffe-application&#x2F;)
 * [Simple ASP.NET Core Application](https:&#x2F;&#x2F;rafaelldi.github.io&#x2F;&#x2F;posts&#x2F;simple-asp-net-core-application&#x2F;)
-* [GraphQL with ASP.NET Core](https:&#x2F;&#x2F;rafaelldi.github.io&#x2F;&#x2F;posts&#x2F;graphql-with-asp-net-core&#x2F;)
 <!--END_SECTION:feed-->
 
 ---

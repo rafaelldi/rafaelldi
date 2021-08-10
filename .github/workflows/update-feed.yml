@@ -2,6 +2,8 @@ name: Update this repo's README
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: 0 8 * * *
 
 jobs:
   update:
@@ -12,3 +14,4 @@ jobs:
           feed-url: https://northern-dev.net/feed.xml
           max: 10
           readme-section: feed
+          branch: main

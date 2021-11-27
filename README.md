@@ -9,6 +9,7 @@
 ### 📓 Recent blog posts:
 
 <!--START_SECTION:feed-->
+* [Diagnostics tools inside Docker container](https:&#x2F;&#x2F;northern-dev.net&#x2F;&#x2F;posts&#x2F;diagnostics-tools-inside-docker&#x2F;)
 * [Distributed tracing for messaging application](https:&#x2F;&#x2F;northern-dev.net&#x2F;&#x2F;posts&#x2F;distributed-tracing-for-messaging-application&#x2F;)
 * [Tracing for messaging application](https:&#x2F;&#x2F;northern-dev.net&#x2F;&#x2F;posts&#x2F;tracing-for-messaging-application&#x2F;)
 * [Monitoring background task](https:&#x2F;&#x2F;northern-dev.net&#x2F;&#x2F;posts&#x2F;monitoring-background-task&#x2F;)
@@ -18,7 +19,6 @@
 * [Orchestration](https:&#x2F;&#x2F;northern-dev.net&#x2F;&#x2F;posts&#x2F;orchestration&#x2F;)
 * [Coordination in the distributed systems](https:&#x2F;&#x2F;northern-dev.net&#x2F;&#x2F;posts&#x2F;coordination-in-the-distributed-systems&#x2F;)
 * [Distributed application with Project Tye](https:&#x2F;&#x2F;northern-dev.net&#x2F;&#x2F;posts&#x2F;distributed-application-with-project-tye&#x2F;)
-* [WebSockets in .NET](https:&#x2F;&#x2F;northern-dev.net&#x2F;&#x2F;posts&#x2F;web-sockets-in-dot-net&#x2F;)
 <!--END_SECTION:feed-->
 
 ---

@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://northern-dev.net/feed.xml
+          feed-url: https://rafaelldi.blog/feed.xml
           max: 10
           readme-section: feed
           branch: main

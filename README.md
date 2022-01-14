@@ -44,6 +44,15 @@ Secondary:
 </details>
 
 <details>
+    <summary>🔥 <b>My Intellij Plugin</b></summary>
+    <p align="center">
+        <a href="https://plugins.jetbrains.com/plugin/16426-tye">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelldi&repo=tye-plugin&theme=nord">
+        </a>
+    </p>
+</details>
+
+<details>
     <summary>📝 <b>My CV</b></summary>
     <p align="center">
         <a href="https://github.com/rafaelldi/resume/releases/latest/download/resume.pdf">🚀 Latest version</a>

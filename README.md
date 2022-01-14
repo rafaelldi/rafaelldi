@@ -9,7 +9,6 @@
 ### 📓 Recent blog posts:
 
 <!--START_SECTION:feed-->
-
 * [Diagnostics tools inside Docker container](https:&#x2F;&#x2F;rafaelldi.blog&#x2F;&#x2F;posts&#x2F;diagnostics-tools-inside-docker&#x2F;)
 * [Distributed tracing for messaging application](https:&#x2F;&#x2F;rafaelldi.blog&#x2F;&#x2F;posts&#x2F;distributed-tracing-for-messaging-application&#x2F;)
 * [Tracing for messaging application](https:&#x2F;&#x2F;rafaelldi.blog&#x2F;&#x2F;posts&#x2F;tracing-for-messaging-application&#x2F;)
@@ -26,14 +25,11 @@
 
 <details>
     <summary>📊 <b>Stats</b></summary>
-
     <p align="center">
         <img src=https://github-readme-stats.vercel.app/api?username=rafaelldi&show_icons=true&theme=nord/>
     </p>
-
     <p align="center">
         <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelldi&layout=compact&theme=nord/>
     </p>
-
 </details>
 

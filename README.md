@@ -9,6 +9,7 @@
 ### 📓 Recent blog posts:
 
 <!--START_SECTION:feed-->
+
 * [Diagnostics tools inside Docker container](https:&#x2F;&#x2F;northern-dev.net&#x2F;&#x2F;posts&#x2F;diagnostics-tools-inside-docker&#x2F;)
 * [Distributed tracing for messaging application](https:&#x2F;&#x2F;northern-dev.net&#x2F;&#x2F;posts&#x2F;distributed-tracing-for-messaging-application&#x2F;)
 * [Tracing for messaging application](https:&#x2F;&#x2F;northern-dev.net&#x2F;&#x2F;posts&#x2F;tracing-for-messaging-application&#x2F;)
@@ -19,13 +20,21 @@
 * [Orchestration](https:&#x2F;&#x2F;northern-dev.net&#x2F;&#x2F;posts&#x2F;orchestration&#x2F;)
 * [Coordination in the distributed systems](https:&#x2F;&#x2F;northern-dev.net&#x2F;&#x2F;posts&#x2F;coordination-in-the-distributed-systems&#x2F;)
 * [Distributed application with Project Tye](https:&#x2F;&#x2F;northern-dev.net&#x2F;&#x2F;posts&#x2F;distributed-application-with-project-tye&#x2F;)
+
 <!--END_SECTION:feed-->
 
 ---
 
-### 📊 Stats
+<details>
+    <summary>📊 <b>Stats</b></summary>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelldi&show_icons=true&theme=nord)](https://github.com/rafaelldi/)
+    <p align="center">
+        <img src=https://github-readme-stats.vercel.app/api?username=rafaelldi&show_icons=true&theme=nord/>
+    </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelldi&layout=compact&theme=nord)](https://github.com/rafaelldi/)
+    <p align="center">
+        <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelldi&layout=compact&theme=nord/>
+    </p>
+
+</details>
 

@@ -26,10 +26,10 @@
 <details>
     <summary>📊 <b>Stats</b></summary>
     <p align="center">
-        <img src=https://github-readme-stats.vercel.app/api?username=rafaelldi&show_icons=true&theme=nord/>
+        <img src=https://github-readme-stats.vercel.app/api?username=rafaelldi&show_icons=true&theme=nord>
     </p>
     <p align="center">
-        <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelldi&layout=compact&theme=nord/>
+        <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelldi&layout=compact&theme=nord>
     </p>
 </details>
 

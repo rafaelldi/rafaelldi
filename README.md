@@ -45,8 +45,8 @@ Secondary:
 
 <details>
     <summary>📝 <b>My CV</b></summary>
-    <p>
-        <a href="https://github.com/rafaelldi/resume/releases/latest/download/resume.pdf">Latest version</a>
+    <p align="center">
+        <a href="https://github.com/rafaelldi/resume/releases/latest/download/resume.pdf">🚀 Latest version</a>
     </p>
 </details>
 

@@ -4,6 +4,16 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rafaelldi)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rivalabdrakhamnov)
 
+
+My primary languages:
+
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120?style=for-the-badge&logoColor=white)
+
+Secondary:
+
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
 ---
 
 ### 📓 Recent blog posts:
@@ -24,12 +34,19 @@
 ---
 
 <details>
-    <summary>📊 <b>Stats</b></summary>
+    <summary>📊 <b>My Stats</b></summary>
     <p align="center">
         <img src=https://github-readme-stats.vercel.app/api?username=rafaelldi&show_icons=true&theme=nord>
     </p>
     <p align="center">
         <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelldi&layout=compact&theme=nord>
+    </p>
+</details>
+
+<details>
+    <summary>📝 <b>My CV</b></summary>
+    <p>
+        <a href="https://github.com/rafaelldi/resume/releases/latest/download/resume.pdf">Latest version</a>
     </p>
 </details>
 

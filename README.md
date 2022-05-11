@@ -40,10 +40,13 @@ My primary language and framework:
 </details>
 
 <details>
-    <summary>🔥 <b>My Intellij Plugin</b></summary>
+    <summary>🔥 <b>My Intellij Plugins</b></summary>
     <p align="center">
         <a href="https://plugins.jetbrains.com/plugin/16426-tye">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelldi&repo=tye-plugin&theme=nord">
+        </a>
+        <a href="https://plugins.jetbrains.com/plugin/19141-diagnostics-client">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelldi&repo=diagnostics-client-plugin&theme=nord">
         </a>
     </p>
 </details>

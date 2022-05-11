@@ -45,6 +45,8 @@ My primary language and framework:
         <a href="https://plugins.jetbrains.com/plugin/16426-tye">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelldi&repo=tye-plugin&theme=nord">
         </a>
+    </p>
+    <p align="center">
         <a href="https://plugins.jetbrains.com/plugin/19141-diagnostics-client">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelldi&repo=diagnostics-client-plugin&theme=nord">
         </a>

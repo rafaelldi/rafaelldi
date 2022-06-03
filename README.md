@@ -15,6 +15,7 @@ My primary language and framework:
 ### 📓 Recent blog posts:
 
 <!--START_SECTION:feed-->
+* [What does the .NET application say - Counters and Metrics](https:&#x2F;&#x2F;rafaelldi.blog&#x2F;&#x2F;posts&#x2F;counters-and-metrics&#x2F;)
 * [OpenTelemetry in .NET](https:&#x2F;&#x2F;rafaelldi.blog&#x2F;&#x2F;posts&#x2F;open-telemetry-in-dotnet&#x2F;)
 * [Diagnostics tools inside Docker container](https:&#x2F;&#x2F;rafaelldi.blog&#x2F;&#x2F;posts&#x2F;diagnostics-tools-inside-docker&#x2F;)
 * [Distributed tracing for messaging application](https:&#x2F;&#x2F;rafaelldi.blog&#x2F;&#x2F;posts&#x2F;distributed-tracing-for-messaging-application&#x2F;)
@@ -24,7 +25,6 @@ My primary language and framework:
 * [Making a plugin isn’t so hard…](https:&#x2F;&#x2F;rafaelldi.blog&#x2F;&#x2F;posts&#x2F;plugin-for-rider&#x2F;)
 * [Choreography](https:&#x2F;&#x2F;rafaelldi.blog&#x2F;&#x2F;posts&#x2F;choreography&#x2F;)
 * [Orchestration](https:&#x2F;&#x2F;rafaelldi.blog&#x2F;&#x2F;posts&#x2F;orchestration&#x2F;)
-* [Coordination in the distributed systems](https:&#x2F;&#x2F;rafaelldi.blog&#x2F;&#x2F;posts&#x2F;coordination-in-the-distributed-systems&#x2F;)
 <!--END_SECTION:feed-->
 
 ---

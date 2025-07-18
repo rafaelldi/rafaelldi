@@ -1,3 +1,9 @@
+<div style="width:100%; text-align:center;">
+    <a href="https://creators.spotify.com/pod/profile/released-show/" style="display: inline-block; margin: auto;">
+      <img src="https://raw.githubusercontent.com/rafaelldi/rafaelldi/master/images/released.png" alt="Released podcast cover image" width="100%" />
+    </a>
+</div>
+
 ## Released! podcast 🎙
 
 * [Virtual Reality. Supposed to be the future](https://open.spotify.com/episode/3BJaNynPvwQk84MUmUOUxT?si=b9KH3nXORk-wSttOOhI00Q)

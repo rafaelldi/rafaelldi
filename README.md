@@ -4,7 +4,7 @@
     </a>
 </div>
 
-## Released! podcast 🎙
+## Released! podcast 🎧
 
 ### Season 1
 

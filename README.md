@@ -1,4 +1,4 @@
-## Released! Podcast 🎧
+## Released! podcast 🎙
 
 * [Virtual Reality. Supposed to be the future](https://open.spotify.com/episode/3BJaNynPvwQk84MUmUOUxT?si=b9KH3nXORk-wSttOOhI00Q)
 * [Lake, Druckmann, Kojima. Three stories about game designers](https://open.spotify.com/episode/17uNehfpWcYGlXBf7M0oPL?si=knlWi6JeS9q4s0TBeXo3xw)

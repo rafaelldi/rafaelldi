@@ -17,3 +17,5 @@
 * [The Legend of Zelda. To open the World](https://open.spotify.com/episode/5NKuD2j6VnwvCYruEnlTsl?si=nlmlcyGrRj6gy-mfuEJHcg)
 * [Lake, Druckmann, Kojima. Three stories about game designers](https://open.spotify.com/episode/17uNehfpWcYGlXBf7M0oPL?si=knlWi6JeS9q4s0TBeXo3xw)
 * [Virtual Reality. Supposed to be the future](https://open.spotify.com/episode/3BJaNynPvwQk84MUmUOUxT?si=b9KH3nXORk-wSttOOhI00Q)
+* [Disco Elysium. A detective story - Part 1](https://open.spotify.com/episode/06Fuwjb5Tto1wAUgbZ7uT1?si=9z1Zq7DzRU-u-Bju9H0ADw)
+* [Disco Elysium. A detective story - Part 2](https://open.spotify.com/episode/4Ur8jbec40yNoGhpvdebn9?si=iarO8hoxRlWpe2u5LG51Ww)
